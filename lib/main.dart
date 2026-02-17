@@ -114,6 +114,7 @@ class _CuteSurprisePageState extends State<CuteSurprisePage>
                 color: Colors.pink,
               ),
             ),
+            Text("New Text"),
           ],
         ),
       ),
